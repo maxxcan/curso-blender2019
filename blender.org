@@ -1,0 +1,12 @@
+* Introduccion
+* Blender la mejor opcion
+* Manejo basico
+** Montando una escena
+* Aprender a modelar
+* Aprendiendo a esculpir
+* Retopology
+* Mteriales
+* Texturizado
+* esqueleto
+* Tejidos
+* Para seguir avanzando
