@@ -1,12 +1,24 @@
-* Introducción
-* Blender la mejor opción
+
+
+* Introducción <Lunes 01-Abril>
+** Blender la mejor opción
+** Veamos una presentación acerca de Blender
+* Instalando Blender
 * Manejo básico
-** Montando una escena
+** Montando una escena de prueba con Suzanne
 * Aprender a modelar
-* Aprendiendo a esculpir
-* Retopology
-* Materiales
-* Texturizado
-* Esqueleto
-* Tejidos textiles
-* Para seguir avanzando
+** Creando una escena Low poly
+* Aprendiendo a esculpir <Martes y Miércoles 02-Abril>
+** Aprendiendo a dibujar
+** Creando una ballena
+** Creando un personaje
+** Deberes para el fin de semana
+* Retopology <Lunes 08-Abril>
+** Cómo hacer retopología a nuestro personaje
+* Materiales <Martes 09-Abril>
+* Texturizado <Martes 10-Abril>
+* Esqueleto <Miércoles 11-Abril>
+** Vamos a poder animar a nuestro personaje
+* Tejidos textiles <Miércoles 11-Abril>
+* Pelo <Miércoles 11-Abril>
+* Para seguir avanzando <Miércoles 11-Abril>

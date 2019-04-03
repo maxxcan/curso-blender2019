@@ -1,0 +1,351 @@
+#+title: Introducción a Blender3D
+#+Author: Patricio Martínez
+#+Email: maxxcan@disroot.org
+
+#+REVEAL_ROOT: file:/opt/reveal.js/
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
+#+OPTIONS: reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1200 reveal_height:800
+#+OPTIONS: toc:1
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: cube
+#+REVEAL_THEME: makers
+#+REVEAL_HLEVEL: 2
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="A Brief Blender3d introduction.">
+#+REVEAL_POSTAMBLE: <p> Created by Maxxcan. </p>
+#+REVEAL_PLUGINS: (markdown notes)
+
+
+
+
+* Introducción a Blender3D
+
+[[./img/blender.png]]
+
+
+** Por qué Blender3D
+:PROPERTIES:
+:reveal_background: #8147ff
+:END:
+
+#+attr_reveal: :frag (appear)
++ Es software libre
++ Está en constante evolución
++ Se adapta a nuestras necesidades
++ Ocupa poco tamaño (10G+6G autocad)
++ Es multiplataforma
++ Muchos *formatos* para importar y exportar
++ Es un _todoterreno_ del mundo del 3D
+
+#+reveal: split
+
+*TODOTERRENO*
+
+#+attr_reveal: :frag (appear)
+  + Modelado
+  + Animación
+  + Simulación
+  + Edición de Vídeo
+  + Esculpting
+  + VFX
+  + Animación 2D
+  + Etc
+
+*** Que es el software libre
+
+[[./img/Patrimonio-tecnologico-humanidad.png]]
+
+*** El gratis es una trampa
+
+[[./img/a-trap.jpg]]
+
+*** Ventajas e inconvenientes
+:PROPERTIES:
+:reveal_background: blue
+:END:
+[[./img/ventajas-desventajas-blender.png]]
+
+*** Ventajas
+:PROPERTIES:
+:reveal_background: blue
+:reveal_background_trans: zoom
+:END:
+#+attr_reveal: :frag (appear)
++ Al ser el código accesible todo el mundo puede reparar fallos y añadir mejoras.
++ El software evoluciona si es útil no si es rentable.
++ La gente se siente parte de una comunidad que se ayuda.
++ Los proyectos no mueren por el designio de una empresa (Freehand, Nokia vs Sodipodi, Libreoffice o Joomla)
++ La personalización del software a nuestras necesidades es más de lo que ningún software privativo nos puede dar.
+
+*** Inconvenientes 
+:PROPERTIES:
+:reveal_background: red
+:reveal_background_trans: zoom
+:END:
+#+attr_reveal: :frag (appear)
++ Igual no molas. La diferencia entre ser friki o cool es el dinero.[fn:1]
++ No hay una gran compañía que te da la seguridad de que miran por su dinero.
++ No tienes posibilidad de usar herramientas que igual no necesitas.
++ Es posible que no tengas acceso a la última tecnología. Ej: Impresión 3D
+ 
+*** Que podemos ofrecer al software libre
+
+*Si tú no controlas la tecnología, la tecnología te controlará a tí*
+
+[[./img/linux-open-future.jpg]]
+
+
+** Blender3D y diseño
+:PROPERTIES:
+:reveal_background: grey
+:reveal_background_trans: zoom
+:END:
+
+
+Blender3D es un programa completo y eficiente para todo tipo de diseño.
+
+[[./img/blender-industria.jpg]]
+
+ 
+
+
+
+
+
+** Blender3D y diseño de personajes 
+:PROPERTIES:
+:reveal_background: grey
+:reveal_background_trans: zoom
+:END:
+
+Blender también tiene muchas ventajas para diseño de personajes.
+
+[[./img/character1.jpg]]
+#+reveal: split
+[[./img/character2.jpg]]
+#+reveal: split
+[[./img/character3.jpg]]
+#+reveal: split
+[[./img/character4.jpg]]
+
+
+** Blender3D y texturizado 
+
+Blender le puede plantar cara perfectamente a programas famosos de texturizado como [[https://www.allegorithmic.com/][Substance Painter]]
+
+#+reveal: split
+[[./img/texturizado.png]]
+
+** Blender3D junto a otros programas
+   
+*** Formatos y estándares
+
+La importancia del _respetar_ los _estándares_
+
+Ejemplo del _Ms-Office_
+
+*** Unity 
+
+
+
+[[./img/unity-logo.png]]
+#+reveal: split
+
+[[./img/blender-to-unity.jpg]]
+
+
+*** Godot 
+:PROPERTIES:
+:reveal_background: purple
+:reveal_background_trans: zoom
+:END:
+[[./img/godot-logo.png]]
+#+reveal: split
+
+[[./img/godot-blender.jpg]]
+
+
+*** Inkscape 
+:PROPERTIES:
+:reveal_background: purple
+:reveal_background_trans: zoom
+:END:
+
+Blender importa perfectamente los ficheros vectoriales, y el mejor programa para diseño vectorial es [[https://inkscape.org/][Inkscape]]
+
+#+reveal: split
+
+[[./img/inkscape-blender.png]]
+
+
+
+
+
+*** Blender3D con otros motores de renderizado
+:PROPERTIES:
+:reveal_background: #8147ff
+:END:
+
+#+attr_reveal: :frag (appear)
+- Vray
+- Renderman
+- Luxrender
+- Yafray
+- Octane.
+- Etc.
+
+
+
+** La personalización de Blender3D
+
+*** Scripts
+:PROPERTIES:
+:reveal_background: ./img/bailando.gif
+:reveal_background_trans: slide
+:END:
+
+*** Addons
+
+[[./img/blender-addons.png]]
+
+[[http://blenderaddonlist.blogspot.com.es/2015_01_01_archive.html][Lista de Addons]]
+
+*** Tu propia versión de Blender3D
+
+[[http://www.graphicall.org][GraphicAll]]
+
+
+** Interfaz de Blender3D
+:PROPERTIES:
+:reveal_background: #8147ff
+:END:
+
+
+Uno de los puntos fuertes de *Blender3D* es su interfaz al ser increíblemente *personalizable*. Es lo que más trabajaremos hoy
+
+*** Evolución de la interfaz
+:PROPERTIES:
+:reveal_background: #8147ff
+:END:
+
+
+La interfaz de Blender3D ha cambiado mucho, algo que nos indica que su programación permite una gran *flexibilidad*.
+
+
+
+
+[[./img/blender-origin.png]]
+
+*** Interfaz actual
+:PROPERTIES:
+:reveal_background: #8147ff
+:END:
+
+
+Esta es la actual:
+
+[[./img/interfaz-principal.png]]
+
+
+#+reveal: split 
+
+[[./img/interfaz-inicial.png]]
+
+
+*** Y en un futuro próximo:
+
+
+[[./img/blender2.8.png]]
+
+
+*** Trabajando con la interfaz de Blender3D
+:PROPERTIES:
+:reveal_background: #8147ff
+:END:
+
+
+
+[[./img/basics-interfaz.jpg]]
+
+
+
+
+
+** Demos y Vídeos
+
+*** Demos
+
+**** Simulación
+
+Vídeo sobre simulación en Blender3D
+
+[[./img/simulacion.png]]
+
+[[https://www.youtube.com/watch?v=c3M6oz8DsFI][Enlace al vídeo]]
+
+#+reveal: split
+
+También simulando tejidos
+
+[[./img/blender-ropa.png]]
+
+
+[[https://www.youtube.com/watch?v=u6CN08r7WVA][Enlace al vídeo]]
+
+
+*** Cortos hechos con Blender3D
+
+- Caminantes
+
+[[./img/caminantes.png]]
+
+[[https://www.youtube.com/watch?v=SkVqJ1SGeL0&t=17s][Enlace al vídeo]]
+
+#+reveal: split
+
+- Demoreel 2016
+
+Vídeo donde se presentan los mejores trabajos del 2016
+
+[[./img/demoreel-cycles.png]]
+
+[[https://www.youtube.com/watch?v=mIiY6aGefvI&t=45s][Enlace al vídeo]]
+
+#+reveal: split
+
+- Cosmos
+
+El último corto de la fundación Blender3D
+
+[[./img/cosmos.png]]
+
+[[https://www.youtube.com/watch?v=Y-rmzh0PI3c&t=57s][Enlace al vídeo]]
+
+#+reveal: split
+
+Aquí uno de los mejores Demoreel de todos
+
+[[./img/demoreel-2013.png]]
+
+
+
+[[https://www.youtube.com/watch?v=1XZGulDxz9o][Enlace al vídeo]]
+
+
+* Epílogo
+
+Ninguna Presentación ha sufrido maltrato 
+
+[[./img/no-powerpoint.jpg]]
+
+
+* Fin por el momento
+
+[[./img/the-end.jpg]]
+
+
+* Footnotes
+
+[fn:1] Anís del mono vs Jagermeister
