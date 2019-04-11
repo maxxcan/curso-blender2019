@@ -1,0 +1,87 @@
+#+title: Finalizando el curso de Blender3D
+#+Author: Patricio Martínez
+#+Email: maxxcan@disroot.org
+
+#+REVEAL_ROOT: file:/opt/reveal.js/
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
+#+OPTIONS: reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1200 reveal_height:800
+#+OPTIONS: toc:1
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: cube
+#+REVEAL_THEME: makers
+#+REVEAL_HLEVEL: 2
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="A Brief Blender3d introduction.">
+#+REVEAL_POSTAMBLE: <p> Created by Maxxcan. </p>
+#+REVEAL_PLUGINS: (markdown notes)
+
+
+* Finalizandox
+
+Como último día del curso tenemos que despedirnos
+
+[[./img/despedida.jpg]]
+
+* Para seguir avanzando
+
+Este es un aperitivo muy escueto de todo lo que puede ofrecer Blender3D. Para seguir avanzando lo mejor es:
+
+#+attr_reveal: :frag (appear)
+1. Youtube
+2. Cursos online
+3. Blender Cloud
+4. Blender Foundation 
+5. Foros específicos de Blender3D
+6. Foros de diseñadores en general 
+
+* Páginas de cursos
+
+Algunas buenas páginas son: 
+
+
+[[https://cloud.blender.org/welcome][Blender Cloud]]
+
+[[https://cgmasters.net/][CG Master]]
+
+[[https://www.blendswap.com/][BlenderSwap]]
+
+[[https://blendermarket.com/][Blender Market]]
+
+[[https://www.youtube.com/channel/UCfjswDVU0XHyBN7UFG0Mi5Q][Yan Sculpts]]
+
+[[https://www.blendernation.com/][Blender Nation]]
+
+[[https://www.ubuntu.com/][Ubuntu]]
+
+[[https://linuxmint.com/][Linux Mint]]
+
+
+
+
+
+
+
+* Apoyando el Software Libre
+
+** Recordar que si apoyáis y enseñáis Software Libre 
+
+#+attr_reveal: :frag (appear)
+1. Sois mejores personas
+2. Ayudáis a vuestros alumnos
+3. Apoyáis un mundo más ético y justo
+
+** Si enseñáis Software Privado 
+
+#+attr_reveal: :frag (appear)
+1. Apoyáis un mundo menos ético y justo
+2. Obligáis a vuestros alumnos a pagar o delinquir para poder aprender
+3. Os transformáis en el Camello que da droga en los colegios, siendo la primera dosis Gratis
+
+
+* Agradecimientos
+
+Muchas gracias por todo, si vosotros habéis aprendido conmigo, yo he aprendido mucho más con vosotros. 
+
+[[./img/agradecimiento.jpg]]
