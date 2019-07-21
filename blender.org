@@ -1,6 +1,8 @@
+#+title: Introducción al modelado 3D con Blender
+#+author: Patricio Martínez
+#+email: maxxcan@disroot.org
 
-
-* Introducción <Lunes 01-Abril>
+* Introducción
 ** Blender la mejor opción
 ** Veamos una presentación acerca de Blender
 * Instalando Blender
@@ -13,12 +15,11 @@
 ** Creando una ballena
 ** Creando un personaje
 ** Deberes para el fin de semana
-* Retopology <Lunes 08-Abril>
+* Retopology
 ** Cómo hacer retopología a nuestro personaje
-* Materiales <Martes 09-Abril>
-* Texturizado <Martes 10-Abril>
-* Esqueleto <Miércoles 11-Abril>
-** Vamos a poder animar a nuestro personaje
-* Tejidos textiles <Miércoles 11-Abril>
-* Pelo <Miércoles 11-Abril>
-* Para seguir avanzando <Miércoles 11-Abril>
+* Materiales
+* Texturizado 
+* Esqueleto 
+* Tejidos textiles 
+* Pelo 
+* Para seguir avanzando 
